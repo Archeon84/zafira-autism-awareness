@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-labelledby="title desc">
+<title id="title">Zafira Amelia cartoon illustration</title>
+<desc id="desc">A cheerful cartoon girl with a blue polka-dot bow, dark hair, rosy cheeks and a blue top, resting her face on her hands.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e9f6ff"/><stop offset="1" stop-color="#b9e4ff"/></linearGradient>
+ <linearGradient id="hair" x1="0" x2="1"><stop stop-color="#3b211b"/><stop offset=".5" stop-color="#6b3825"/><stop offset="1" stop-color="#2b1714"/></linearGradient>
+ <linearGradient id="shirt" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#4aa0ef"/><stop offset="1" stop-color="#1769bd"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-opacity=".16"/></filter>
+</defs>
+<rect x="10" y="10" width="500" height="600" rx="48" fill="url(#bg)" stroke="#d0e9f8" stroke-width="8"/>
+<path d="M38 170 C78 95 165 76 241 102 C320 60 430 102 476 178 L476 535 C432 579 349 594 260 585 C164 596 83 565 42 520Z" fill="#fff" opacity=".55"/>
+<g fill="none" stroke="#2f8fe8" stroke-width="8" stroke-linecap="round">
+ <path d="M65 255c-25-26-35-48-31-71"/><path d="M55 311c-23-1-42 6-53 19"/><path d="M445 236c26-22 37-45 35-67"/><path d="M452 305c22 0 39 8 49 20"/>
+</g>
+<g transform="translate(24 10)" filter="url(#shadow)">
+ <!-- torso -->
+ <path d="M92 516 C105 430 151 396 230 396 C315 396 373 433 391 516 L390 590 L84 590Z" fill="url(#shirt)"/>
+ <path d="M103 486 C136 445 164 430 195 420 L143 584 L84 584Z" fill="#2b80cf" opacity=".45"/>
+ <path d="M357 480 C326 446 298 429 267 419 L318 586 L390 586Z" fill="#0f5aa5" opacity=".28"/>
+ <!-- hair back -->
+ <path d="M93 290 C70 205 91 102 194 77 C260 31 365 72 384 171 C407 279 354 398 267 407 C178 418 115 379 93 290Z" fill="url(#hair)"/>
+ <g fill="#5c2f20" opacity=".8">
+  <path d="M113 164c25-67 80-93 137-97l-18 38c-60 7-90 31-119 71z"/>
+  <path d="M284 78c67 19 88 65 94 116l-39-19c-10-39-28-69-55-97z"/>
+ </g>
+ <!-- face -->
+ <ellipse cx="235" cy="260" rx="127" ry="131" fill="#ffc7a4"/>
+ <path d="M126 224 C139 142 204 105 267 123 C332 141 360 198 346 266 C333 333 292 379 233 380 C172 380 125 333 118 279Z" fill="#ffd0b1"/>
+ <!-- bun -->
+ <ellipse cx="233" cy="88" rx="73" ry="50" fill="url(#hair)"/>
+ <path d="M177 88c22-39 63-58 105-38" fill="none" stroke="#8a4b31" stroke-width="9" stroke-linecap="round"/>
+ <path d="M162 103c30-24 75-40 119-19" fill="none" stroke="#8a4b31" stroke-width="8" stroke-linecap="round"/>
+ <!-- bow -->
+ <g transform="translate(229 93)">
+  <path d="M-8 0 C-76-43-97-2-76 28 C-55 55-21 34-1 12Z" fill="#2f8fe8" stroke="#fff" stroke-width="5"/>
+  <path d="M8 0 C76-43 97-2 76 28 C55 55 21 34 1 12Z" fill="#2f8fe8" stroke="#fff" stroke-width="5"/>
+  <ellipse cx="0" cy="9" rx="17" ry="20" fill="#1d6dc1"/>
+  <g fill="#fff"><circle cx="-58" cy="13" r="5"/><circle cx="-39" cy="27" r="5"/><circle cx="58" cy="13" r="5"/><circle cx="39" cy="27" r="5"/></g>
+ </g>
+ <!-- bangs -->
+ <path d="M122 202 C133 134 188 108 244 117 C314 119 349 158 353 211 C328 182 303 174 275 170 C251 169 223 178 201 196 C181 180 155 178 122 202Z" fill="url(#hair)"/>
+ <path d="M168 178c-13 26-17 49-9 76" fill="none" stroke="#321a15" stroke-width="10" stroke-linecap="round"/>
+ <path d="M229 151c-8 31-8 51 0 73" fill="none" stroke="#321a15" stroke-width="9" stroke-linecap="round"/>
+ <!-- eyes -->
+ <path d="M166 255c14-17 34-18 48-2" fill="none" stroke="#2b1714" stroke-width="8" stroke-linecap="round"/>
+ <path d="M257 253c14-17 34-18 48-2" fill="none" stroke="#2b1714" stroke-width="8" stroke-linecap="round"/>
+ <!-- nose -->
+ <path d="M230 271c-6 7-6 13 2 15" fill="none" stroke="#dc8c70" stroke-width="5" stroke-linecap="round"/>
+ <!-- smile -->
+ <path d="M191 301 C212 331 261 334 286 300 C264 310 218 310 191 301Z" fill="#fff" stroke="#e07d73" stroke-width="5"/>
+ <path d="M218 318c18 8 35 8 50 0" fill="none" stroke="#f29a93" stroke-width="4" stroke-linecap="round"/>
+ <circle cx="153" cy="286" r="18" fill="#f58c86" opacity=".35"/><circle cx="313" cy="286" r="18" fill="#f58c86" opacity=".35"/>
+ <!-- hands on cheeks -->
+ <g fill="#ffc7a4" stroke="#e49a7e" stroke-width="4">
+  <path d="M126 315 C105 312 95 328 104 353 L125 395 C135 413 159 410 163 392 L158 352 C154 333 145 319 126 315Z"/>
+  <path d="M340 315 C361 312 371 328 362 353 L341 395 C331 413 307 410 303 392 L308 352 C312 333 321 319 340 315Z"/>
+ </g>
+ <path d="M120 326c-14 8-13 23-7 35" fill="none" stroke="#d98f73" stroke-width="4" stroke-linecap="round"/>
+ <path d="M346 326c14 8 13 23 7 35" fill="none" stroke="#d98f73" stroke-width="4" stroke-linecap="round"/>
+</g>
+<!-- little hearts -->
+<g fill="none" stroke="#2f8fe8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M71 111c-22-24-53 8-14 42c39-34 8-66-14-42"/>
+ <path d="M433 128c-18-20-44 7-12 35c32-28 6-55-12-35"/>
+</g>
+</svg>
